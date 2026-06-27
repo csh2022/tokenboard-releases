@@ -1,8 +1,7 @@
 # TokenBoard
 
 [Visit TokenBoard](https://token-board.com) ·
-[Install](https://token-board.com/install.sh) ·
-[Latest release](https://github.com/csh2022/tokenboard-releases/releases/latest)
+[Install](#install)
 
 TokenBoard is an AI coding token leaderboard for developers who want to track,
 compare, and share reported usage across AI coding assistants without uploading
@@ -50,8 +49,7 @@ The first collector supports Codex usage. More AI coding agents are planned.
 ## Links
 
 - Website: https://token-board.com
-- Install script: https://token-board.com/install.sh
-- Latest release: https://github.com/csh2022/tokenboard-releases/releases/latest
+- Install: [run the terminal command above](#install)
 
 ## About This Repository
 
