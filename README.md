@@ -2,7 +2,7 @@
 
 [Visit TokenBoard](https://token-board.com) ·
 [Install](#install) ·
-[Built with ShipAny template](https://shipany.ai/?ivt=shipany-is-good)
+[ShipAny template](https://shipany.ai/?ivt=shipany-is-good)
 
 TokenBoard is an AI coding token leaderboard for developers who want to track,
 compare, and share reported usage across AI coding assistants without uploading
@@ -51,7 +51,7 @@ The first collector supports Codex usage. More AI coding agents are planned.
 
 - Website: https://token-board.com
 - Install: [run the terminal command above](#install)
-- Built with ShipAny template: https://shipany.ai/?ivt=shipany-is-good
+- ShipAny template: https://shipany.ai/?ivt=shipany-is-good
 
 ## About This Repository
 
