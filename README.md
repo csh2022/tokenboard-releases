@@ -1,5 +1,9 @@
 # TokenBoard
 
+[Visit TokenBoard](https://token-board.com) ·
+[Install](https://token-board.com/install.sh) ·
+[Latest release](https://github.com/csh2022/tokenboard-releases/releases/latest)
+
 TokenBoard is an AI coding token leaderboard for developers who want to track,
 compare, and share reported usage across AI coding assistants without uploading
 prompts or code.
